@@ -63,5 +63,3 @@
 </p>
 
 <br>
-
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ringku1/ringku1/output/github-contribution-grid-snake-dark.svg">
