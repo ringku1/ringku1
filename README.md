@@ -15,7 +15,7 @@
 - 🎓 Knowledge seeker with strong interest in learning new technologies
 - 🎯 Focused, passionate, and consistent in problem solving
 - 🌱 Currently learning **Next.js** and **AdonisJS**
-- 👨‍💻 Portfolio: <a href="https://github.com/ringku1](https://ringku.my.canva.site/" target="_blank">Ringku Singha</a>
+- 👨‍💻 Portfolio: <a href="https://ringku.my.canva.site/" target="_blank">Ringku Singha</a>
 - 💬 Ask me about **DSA, Problem Solving, Logical Development**
 - 📫 Reach me at: <a href="mailto:ringkuxinha@gmail.com">ringkuxinha@gmail.com</a>
 
