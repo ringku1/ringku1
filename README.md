@@ -22,26 +22,40 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ringku1/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/ringku_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/ringku_1" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/ringku_/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-  <a href="https://lightoj.com/user/ringku_" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/code.png" alt="lightoj" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/ringkuxinha" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/ringku1/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://codeforces.com/profile/ringku_" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.codechef.com/users/ringku_1" target="_blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/ringku_/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://lightoj.com/user/ringku_" target="_blank">
+        <img align="center" src="https://img.icons8.com/ios-filled/50/000000/code.png" alt="lightoj" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.hackerrank.com/profile/ringkuxinha" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
