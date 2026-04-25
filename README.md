@@ -16,7 +16,7 @@
 - 🎯 Focused, passionate, and consistent in problem solving
 - 🌱 Currently learning **Web Development** and **System Design**
 - 👨‍💻 Portfolio: <a href="https://ringku.my.canva.site/" target="_blank">Ringku Singha</a>
-- 💬 Ask me about **DSA, Problem Solving, Logical Development**
+- 💬 Ask me about **DSA, Problem Solving, Logic Development**
 - 📫 Reach me at: <a href="mailto:ringkuxinha@gmail.com">ringkuxinha@gmail.com</a>
 
 <br>
