@@ -15,7 +15,7 @@
 - 🎓 Knowledge seeker with strong interest in learning new technologies
 - 🎯 Focused, passionate, and consistent in problem solving
 - 🌱 Currently learning **Web Development** and **System Design**
-- 👨‍💻 Portfolio: <a href="https://ramendra-singha-portfolio.vercel.app/" target="_blank">Ringku Singha</a>
+- 👨‍💻 Portfolio: <a href="https://ramendra-kumer-singha.vercel.app/" target="_blank">Ringku Singha</a>
 - 💬 Ask me about **DSA, Problem Solving, Logic Development**
 - 📫 Reach me at: <a href="mailto:ringkuxinha@gmail.com">ringkuxinha@gmail.com</a>
 
